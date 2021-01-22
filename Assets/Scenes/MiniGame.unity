@@ -380,6 +380,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1698188893}
     m_Modifications:
+    - target: {fileID: 6075306802912275890, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6075306802912275890, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747173, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_Name
       value: Pickup3
@@ -923,7 +931,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747178, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.68
+      value: -2.32
       objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747178, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -931,7 +939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747178, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.25
+      value: -1.48
       objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747178, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -989,7 +997,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747178, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747178, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1463,6 +1471,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1698188893}
     m_Modifications:
+    - target: {fileID: 6075306802912275890, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7757954972700747173, guid: 701d8ee45e0638b4484aab0d452ca6d7, type: 3}
       propertyPath: m_Name
       value: Pickup5
